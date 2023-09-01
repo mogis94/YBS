@@ -91,6 +91,11 @@ struct PhotoRow: View {
                 }
                 
                 VStack(alignment: .leading, spacing: 16) {
+                    
+                    Text(photoInfo.photo.title)
+                        .font(.system(size: 18))
+                        .lineLimit(nil)
+                        .truncationMode(.tail)
                                         
                     // User Info display
                     HStack {
