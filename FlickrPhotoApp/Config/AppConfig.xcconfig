@@ -1,0 +1,11 @@
+//
+//  AppConfig.xcconfig
+//  FlickrPhotoApp
+//
+//  Created by Mogis A on 27/08/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = 00fc6fd586f87f5243b23c322888d6e4
